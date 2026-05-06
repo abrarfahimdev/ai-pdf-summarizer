@@ -69,7 +69,6 @@ Create a `.env` file in the root of the project:
 VITE_GROQ_API_KEY=your_groq_api_key_here
 ```
 
-> ⚠️ Never share or commit your API key. The `.env` file is already in `.gitignore`.
 
 ### 5. Start the development server
 
