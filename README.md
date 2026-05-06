@@ -2,7 +2,6 @@
 
 A modern, fully responsive AI-powered PDF summarizer built with React and Groq AI. Upload any PDF and get an instant intelligent summary in seconds.
 
-![AI PDF Summarizer Preview]
 
 ---
 
